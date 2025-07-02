@@ -1,0 +1,7 @@
+__pycache__/
+*pyc
+
+locallibrary/__pycache__/
+*py[cod]
+
+catalog/__pycache__/
