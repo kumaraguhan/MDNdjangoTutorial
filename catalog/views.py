@@ -3,7 +3,7 @@ from django.contrib.auth.decorators import login_required
 
 from .models import Book, BookInstance, Author, Genre
 
-@login_required
+# @login_required
 def index(request):
     """View function for home page of site."""
 
