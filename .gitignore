@@ -10,3 +10,4 @@ catalog/__pycache__/
 
 .static/
 
+staticfiles/
