@@ -5,3 +5,9 @@ locallibrary/__pycache__/
 *py[cod]
 
 catalog/__pycache__/
+
+.env
+
+.static/
+
+staticfiles/
